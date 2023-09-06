@@ -1,4 +1,4 @@
-module github.com/adrienpessu/go-lib-example/v55
+module github.com/adrienpessu/go-lib-example
 
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8
