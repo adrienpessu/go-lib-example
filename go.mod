@@ -3,6 +3,7 @@ module github.com/adrienpessu/go-lib-example/v55
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8
 	github.com/google/go-cmp v0.5.9
+	github.com/google/go-github/v55 v55.0.0
 	github.com/google/go-querystring v1.1.0
 )
 
