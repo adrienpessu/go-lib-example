@@ -8,9 +8,9 @@ require (
 )
 
 require (
-	github.com/cloudflare/circl v1.3.3 // indirect
-	golang.org/x/crypto v0.12.0 // indirect
-	golang.org/x/sys v0.11.0 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
 
 go 1.17
